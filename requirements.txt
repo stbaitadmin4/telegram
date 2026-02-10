@@ -1,0 +1,2 @@
+Pyrogram
+SQLAlchemy # Залишаємо для роботи з БД
